@@ -1,0 +1,1 @@
+get sublime text set up to run from command line
